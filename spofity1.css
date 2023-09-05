@@ -1,0 +1,136 @@
+#body{
+    overflow-y: scroll;
+    background-color: #000000;
+    
+}
+*{
+    
+    margin: 0px;
+    padding: 0px;
+    background-color: #000000;
+    
+    
+}
+.c1{
+    cursor: pointer;
+    width: 251px;
+    height: 313px;
+    
+    background: rgba(24, 24, 24, 1);
+    
+
+}
+
+.c1>img{
+    width: 207px;
+    height: 207px;
+}
+.bottom{
+    position: sticky;
+    height: 122px;
+    background-color: #000000;
+    
+
+}
+.container1{
+    height: 0px;
+    
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+    display: flex;
+    justify-content: space-between;
+   
+    background-color: black;
+    color: white;
+}
+
+header .logo {
+    /* We can add styling specifically for the logo here */
+}
+
+header .nav-links {
+    /* And some styling for the navigation links here */
+}
+
+
+#ma1>div>img{
+    background-color: transparent;
+    width: 29.85px;
+    height: 32.12px;
+    margin-top: 4px;
+    margin-inline: 20px;
+
+}
+.a2>img{
+    background-color: transparent;
+    margin-top: 10px;
+    margin-inline: 20px;
+}
+.in1{
+    
+    background-color: transparent;
+}
+
+
+
+
+#head>div{
+    margin: 10px;
+}
+.a1,.a2{
+width: 340px;
+height: 50px;
+    
+}
+.a1:hover,.a2:hover{
+    
+    background: rgba(40, 40, 40, 1);
+
+}
+.z1:hover{
+    background: rgba(40, 40, 40, 1);
+}
+.um1>div{
+   
+}
+.um1>div:hover{
+    background: rgba(40, 40, 40, 1);
+   
+}
+.um1{
+    width: 213.69308471679688px;
+   height: 277.9245300292969px;
+   
+}
+.um1>div{
+    padding-top: 20px;
+    padding-right: 10px;
+    width: 300px;
+    height: 30px;
+}
+    
+
+#photo1>div{
+    width: 362px;
+height: 100px;
+margin-top: 86px;
+margin-left: 19px;
+border-radius: 4px 0px 0px 4px;
+background-color: (48, 48, 48, 1)
+
+}
+#hea1{
+    width: 29.01px;
+    height: 27.06px;
+    background: linear-gradient(135deg, #4000F4 0%, #603AED 22.48%, #7C6EE6 46.93%, #979FE1 65.71%, #A2B3DE 77.68%, #ADC8DC 88.93%, #C0ECD7 100%);
+}
+.po1{
+    margin-top: 40px;
+    margin-left: 20px;
+    
+}
